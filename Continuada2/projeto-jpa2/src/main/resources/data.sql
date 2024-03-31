@@ -1,0 +1,16 @@
+INSERT INTO musica (nome, ouvintes_total, lancamento, estilo, classico) VALUES
+                                                                            ('musica_1', 230, '2024-01-01', 'estilo_1', true),
+                                                                            ('musica_2', 1500, '2024-02-05', 'estilo_2', false),
+                                                                            ('musica_3', 340, '2024-03-10', 'estilo_3', true),
+                                                                            ('musica_4', 870, '2024-04-15', 'estilo_4', false),
+                                                                            ('musica_5', 920, '2024-05-20', 'estilo_5', true),
+                                                                            ('musica_6', 500, '2024-06-25', 'estilo_6', false),
+                                                                            ('musica_7', 200, '2024-07-30', 'estilo_7', true),
+                                                                            ('musica_8', 1200, '2024-08-04', 'estilo_8', false),
+                                                                            ('musica_9', 750, '2024-09-09', 'estilo_9', true),
+                                                                            ('musica_10', 800, '2024-10-14', 'estilo_10', false),
+                                                                            ('musica_11', 610, '2024-11-19', 'estilo_11', true),
+                                                                            ('musica_12', 330, '2024-12-24', 'estilo_12', false),
+                                                                            ('musica_13', 950, '2025-01-01', 'estilo_13', true),
+                                                                            ('musica_14', 170, '2025-02-05', 'estilo_14', false),
+                                                                            ('musica_15', 880, '2025-03-10', 'estilo_15', true);
