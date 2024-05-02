@@ -1,0 +1,44 @@
+{
+  "tests": [
+    {
+      "name": "Filmes por Título - FilmeBuscaPorTituloTest",
+      "setup": "",
+      "run": "mvn test -DargLine=\"-Dfile.encoding=UTF-8\" -Dtest=sptech.school.exerciciodynamicjpql.controller.FilmeBuscaPorTituloTest",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 3
+    },
+    {
+      "name": "Filmes por data - FilmeBuscaPorDataTest",
+      "setup": "",
+      "run": "mvn test -DargLine=\"-Dfile.encoding=UTF-8\" -Dtest=sptech.school.exerciciodynamicjpql.controller.FilmeBuscaPorDataTest",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 3
+    },
+    {
+      "name": "Criação de Filmes - FilmeCriacaoTest",
+      "setup": "",
+      "run": "mvn test -DargLine=\"-Dfile.encoding=UTF-8\" -Dtest=sptech.school.exerciciodynamicjpql.controller.FilmeCriacaoTest",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 2.5
+    },
+    {
+      "name": "Filme com menor custo - FilmeMenorCustoTest",
+      "setup": "",
+      "run": "mvn test -DargLine=\"-Dfile.encoding=UTF-8\" -Dtest=sptech.school.exerciciodynamicjpql.controller.FilmeMenorCustoTest",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 1.5
+    }
+  ]
+}
